@@ -22,7 +22,7 @@
 |------|-------------|-------|
 | 🌑 Full Black Mode | Chrome — forces true black dark mode on all websites | JS, CSS, Chrome API |
 | TrustMe | Recon Tool Vuln Scan | Bash,Cli, Python |
-| TrustMe-Local Host |Recon graphic Base | Html,python Gui |
+| TrustMe-Local Host |Recon graphic Base | HTML,python Gui |
 |All In One | Vuln sub-domain,dns etc | Bash|
 | 🔧 More coming soon... | Always building something new | — |
 
